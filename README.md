@@ -1,4 +1,4 @@
-# *Real Time Facial Recognition*
+# *Real Time Face Detection*
 
 ## Requirements
 
