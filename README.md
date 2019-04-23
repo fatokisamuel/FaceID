@@ -20,7 +20,7 @@ $ pip install git+https://github.com/fatokisamuel/FaceId.git
 
 ```bash
 # Live webcam detection
-$ FaceID --input webcam
+$ faceid --input webcam
 ```
 
 ## Status
