@@ -2,9 +2,9 @@
 
 ## Requirements
 
-numpy
-tensorflow
-opencv-python
+numpy |
+tensorflow |
+opencv-python |
 
 
 ## How to install
