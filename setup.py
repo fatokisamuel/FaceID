@@ -8,7 +8,7 @@ def readme():
 with open('requirements.txt') as f:
     required = f.read().splitlines()
 
-setup(name='faced',
+setup(name='faceid',
       version='0.1',
       description='Face detection using deep learning',
       long_description=readme(),
@@ -19,9 +19,9 @@ setup(name='faced',
         'Topic :: Text Processing :: Linguistic',
       ],
       keywords='face detection deep learning cnn neural network',
-      url='http://github.com/iitzco/faced',
-      author='Ivan Itzcovich',
-      author_email='i.itzcovich@gmail.com',
+      url='http://github.com/fatokisamuel/faceid',
+      author='Fatoki Samuel',
+      author_email='fatokisamuel080@gmail.com',
       license='MIT',
       packages=['faced'],
       scripts=["bin/faced"],
